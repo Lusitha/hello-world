@@ -4,3 +4,5 @@ Training
 
 Hi humans !
 Hubot here I like Node.js and Coffeeescripts 
+
+Version2
